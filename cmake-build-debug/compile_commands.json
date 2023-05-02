@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/g/My Drive/Academy/Semester-D/OS/EX2/cmake-build-debug/tests",
+  "command": "/usr/bin/c++   -I\"/mnt/g/My Drive/Academy/Semester-D/OS/EX2/tests/..\" -isystem \"/mnt/g/My Drive/Academy/Semester-D/OS/EX2/cmake-build-debug/tests/googletest-src/googletest/include\" -isystem \"/mnt/g/My Drive/Academy/Semester-D/OS/EX2/cmake-build-debug/tests/googletest-src/googletest\"  -g   -Wall -Wextra -std=gnu++14 -o CMakeFiles/theTests.dir/tests_to_be_ran_separately.cpp.o -c \"/mnt/g/My Drive/Academy/Semester-D/OS/EX2/tests/tests_to_be_ran_separately.cpp\"",
+  "file": "/mnt/g/My Drive/Academy/Semester-D/OS/EX2/tests/tests_to_be_ran_separately.cpp"
+}
+]

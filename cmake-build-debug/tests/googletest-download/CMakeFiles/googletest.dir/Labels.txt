@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/mnt/g/My Drive/Academy/Semester-D/OS/EX2/cmake-build-debug/tests/googletest-download/CMakeFiles/googletest
+/mnt/g/My Drive/Academy/Semester-D/OS/EX2/cmake-build-debug/tests/googletest-download/CMakeFiles/googletest.rule
+/mnt/g/My Drive/Academy/Semester-D/OS/EX2/cmake-build-debug/tests/googletest-download/CMakeFiles/googletest-complete.rule
+/mnt/g/My Drive/Academy/Semester-D/OS/EX2/cmake-build-debug/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/mnt/g/My Drive/Academy/Semester-D/OS/EX2/cmake-build-debug/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/mnt/g/My Drive/Academy/Semester-D/OS/EX2/cmake-build-debug/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/mnt/g/My Drive/Academy/Semester-D/OS/EX2/cmake-build-debug/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule
+/mnt/g/My Drive/Academy/Semester-D/OS/EX2/cmake-build-debug/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/mnt/g/My Drive/Academy/Semester-D/OS/EX2/cmake-build-debug/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/mnt/g/My Drive/Academy/Semester-D/OS/EX2/cmake-build-debug/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/mnt/g/My Drive/Academy/Semester-D/OS/EX2/cmake-build-debug/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule

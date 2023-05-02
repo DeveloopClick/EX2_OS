@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/g/My Drive/Academy/Semester-D/OS/EX2/resources/uthreads.cpp
+iostream
+-
+list
+-
+algorithm
+-
+uthreads.h
+/mnt/g/My Drive/Academy/Semester-D/OS/EX2/resources/uthreads.h
+setjmp.h
+/mnt/g/My Drive/Academy/Semester-D/OS/EX2/resources/setjmp.h
+stdio.h
+-
+signal.h
+-
+sys/time.h
+-
+
+/mnt/g/My Drive/Academy/Semester-D/OS/EX2/resources/uthreads.h
+
